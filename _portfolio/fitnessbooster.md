@@ -76,8 +76,8 @@ Die **Auswertung** der User Interviews und Antworten auf die Aufgaben erfolgte i
 Die wichtigsten **Erkenntnisse** zur Motivation, zum Sport-Verhalten und zu den bisherigen Sporterfahrungen der Zielgruppe waren:
 
 **1. Motivation**
-* Alle waren der Meinung, dass Sport **Spaß** machen sollte. Keinen Spaß beim Sport zu habe senke ihre Motivation sich körperlich zu betätigen.
-* Die User beschrieben sich generell als **wenig leistungsorientiert und nicht kompetitiv**. Sie wollte sich nicht mit anderen messen. Dennoch hatten sie auch den **Anspruch ein bestimmtes Leistungsniveau** zu erfüllen und halten zu wollen sowie **beim Sport an die eigenen Grenzen** zu stoßen.
+* Alle waren der Meinung, dass Sport **Spaß** machen sollte. Keinen Spaß beim Sport zu haben, senke ihre Motivation sich körperlich zu betätigen.
+* Die UserInnen beschrieben sich generell als **wenig leistungsorientiert und nicht kompetitiv**. Sie wollte sich nicht mit anderen messen. Dennoch hatten sie auch den **Anspruch ein bestimmtes Leistungsniveau** zu erfüllen und halten zu wollen sowie **beim Sport an die eigenen Grenzen** zu stoßen.
 * **Drei von fünf Personen** beschrieben zudem eine **ihnen selbst innewohnende Motivation sich zu bewegen**: Ohne regelmäßige körperliche Aktivitäten würden sie sich rastlos fühlen und ein Bedürfnis nach mehr Bewegung und Sport verspüren.
 * Die Bedeutung der **Integrierbarkeit des Sport-Angebots in den Alltag** war für die befragten Personen **sehr wichtig**. Sportliche Aktivitäten, die Teil des Alltags sind, steigerten für sie die Wahrscheinlichkeit diese regelmäßig auszuüben. Dieses Bedürfnis führte jedoch **nicht bei allen UserInnen** dazu, dass sie Sport aktiv in ihren Alltag integrierten.
 * Alle waren sich außerdem bewusst, dass **sportliche Aktivitäten zur eigenen Gesundheit, Prävention von Krankheiten und zur allgemeinen Leistungsfähigkeit einen entscheidenden Beitrag leisten können**. Dieses Wissen führte für die UserInnen jedoch **nicht automatisch** dazu regelmäßig mehr Sport zu treiben.
@@ -86,12 +86,12 @@ Die wichtigsten **Erkenntnisse** zur Motivation, zum Sport-Verhalten und zu den 
 **2. Sport-Verhalten**
 * **Voraussetzungen für die Ausübung von Sport** waren neben einem guten Gesundheitszustand sowohl **Zeit** als auch **Lust** auf körperliche Bewegung. 
 * Sportliche oder körperliche Aktivitäten wurden an **Arbeitstagen um die jeweilige Arbeitszeit** herum geplant und am **Wochenende flexibel** angesetzt.
-* **Hinderungsgründe** für sportliche Aktivitäten waren **Gesundheit, Zeit und fehlende Motivation**. Für drei von fünf befragten UserInnenn war es durch die Beschränkungen der Corona-Pandemie möglich mehr und regelmäßiger Sport zu machen als vorher.
+* **Hinderungsgründe** für sportliche Aktivitäten waren **Gesundheit, Zeit und fehlende Motivation**. Für drei von fünf befragten UserInnen war es durch die Beschränkungen der Corona-Pandemie möglich, mehr und regelmäßiger Sport zu machen als vorher.
 * **Sport in der Gemeinschaft**: Die **Mehrheit möchte in erster Linie individuell für sich Sport machen** und als Ergänzung noch mit anderen Menschen gemeinsam Sport zu machen. Lediglich **eine Person** beschrieb Sport in der Gemeinschaft als einen entscheidenden Faktor um überhaupt körperlich aktiv zu sein.
 * **Wettkämpfe** und andere Sport-Events konnten für die TeilnehmerInnen die **Motivation zu mehr Bewegung nur kurzfristig** steigern. Sie führten vor den jeweiligen Veranstaltungen zu einem erhöhten Trainingsaufkommen. Danach wurde dieses Sport-Verhalten von den UserInnen nicht beibehalten oder zu anderen Sportarten gewechselt.
 
 **3. Bisherige Erfahrungen mit digitalen Angeboten**
-* Die **Nutzung von digitalen Fitness-Angeboten** ist seit dem **Beginn der Corona-Pandemie bei den befragten Personen insgesamt gestiegen**. Der Großteil bevorzugte Angebote ohne Registrierung und nutzte bestimmte Anbieter über deren Webseite oder über YouTube. Als Geräte zum Abspielen der Workouts wurden je nach Userin **Laptop, Smartphone oder der Fernseher** verwendet.
+* Die **Nutzung von digitalen Fitness-Angeboten** ist seit **Beginn der Corona-Pandemie bei den befragten Personen insgesamt gestiegen**. Der Großteil bevorzugte Angebote ohne Registrierung und nutzte bestimmte Anbieter über deren Webseite oder über YouTube. Als Geräte zum Abspielen der Workouts wurden je nach Userin **Laptop, Smartphone oder der Fernseher** verwendet.
 * Ein **eigenes, individuelles Sport-Programm haben die UserInnen nicht für sich konzipiert**, sondern auf die Pläne der jeweiligen Sport-Anbieter zurückgegriffen. 
 * Häufig haben sie von einem Anbieter ähnliche Angebote genutzt und **wenig ausprobiert**. Dadurch waren die Übungen zwar **bekannt**, die Workouts wurden so aber auch mit der Zeit **langweilig.**
 * **Abwechslung** war daher für sie ein motivierender Faktor, um mehr Sport zu betreiben. **Paradox war jedoch, dass das Interesse nach dieser Form von Abwechslung selbst zu suchen kaum vorhanden war.**

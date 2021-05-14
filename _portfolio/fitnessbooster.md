@@ -10,7 +10,7 @@ gallery_userinterview:
   - url: /assets/images/fbuinotizenantworten.png
     image_path: assets/images/fbuinotizenantworten.png
     alt: "User Interviews: Notizen und Anworten"
-    title: "Notizen zu den einzelnen User Interviews und Antworten der User zu den Aufgaben"
+    title: "Notizen zu den einzelnen User Interviews und Antworten der befragten Personen zu den Aufgaben"
   - url: /assets/images/fbaffinitydiagram.png
     image_path: assets/images/fbaffinitydiagram.png
     alt: "Affinity Diagram Gesamt- und Detailansicht"

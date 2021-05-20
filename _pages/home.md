@@ -4,7 +4,7 @@ title: "Herzlich Willkommen!"
 layout: single
 ---
 
-Mein Name ist **Mareike Boßelmann** und mein Ziel ist es **UX Designerin** zu werden. 
+Mein Name ist **Mareike Boßelmann**. 
 
 Unter [**Über mich**](https://mbosselmann.github.io/portfolio/about/) erläutere ich meinen **Hintergrund**, meine **Motivation** und meine **Kompetenzen**.
 

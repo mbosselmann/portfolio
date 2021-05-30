@@ -18,36 +18,36 @@ gallery_userinterview:
 gallery_persona:
   - url: /assets/images/fbpersonas.png
     image_path: assets/images/fbpersonas.png
-    alt: "Personas Bina und Mitch"
+    alt: "Die beiden Personas Bina und Mitch"
     title: "Die beiden Personas Bina und Mitch"
 gallery_empovhmw:
   - url: /assets/images/fbempovhmw.png
     image_path: assets/images/fbempovhmw.png
-    alt: "Empathy Map, Point of View und How Might We"
-    title: "Empathy Maps und Points of View für beide Personas und Ergebnisse der How Might We-Session"
+    alt: "Empathy Maps, Points of View und Ergebnisse der How Might We"
+    title: "Empathy Maps und Points of View für beide Personas und Ergebnisse der &quot;How Might We&quot;-Session"
 gallery_badideaschallenge:
   - url: /assets/images/fbbadideaschallenge.png
     image_path: assets/images/fbbadideaschallenge.png
-    alt: "Bad Ideas, Challenge Assumptions"
+    alt: "Ergebnisse von Worst Possible Ideas und Challenge Assumptions"
     title: "Ergebnisse von Worst Possible Ideas und Challenge Assumptions"
 gallery_storyboard:
   - url: /assets/images/fbstoryboardbina.png
     image_path: assets/images/fbstoryboardbina.png
-    alt: "Storyboard Bina"
-    title: "Storyboard 1: Bina möchte ein anderes Training ausprobieren"
+    alt: "Storyboard 1: Bina möchte ein neues Training ausprobieren"
+    title: "Storyboard 1: Bina möchte ein neues Training ausprobieren"
   - url: /assets/images/fbstoryboardmitch.png
     image_path: assets/images/fbstoryboardmitch.png
-    alt: "Storyboard Mitch"
+    alt: "Storyboard 2: Mitch wird von Bina zu einem Livestreaming-Angebot eingeladen"
     title: "Storyboard 2: Mitch wird von Bina zu einem Livestreaming-Angebot eingeladen"
 gallery_paperprototype01:
   - url: /assets/images/fbpp01.png
     image_path: assets/images/fbpp01.png
-    alt: "Paper Prototype Gesamtansicht"
+    alt: "Paper Prototype: Gesamtansicht mit Screens für beide Storyboards"
     title: "Paper Prototype: Gesamtansicht mit Screens für beide Storyboards"
 gallery_paperprototype02:
   - url: /assets/images/fbpp02.png
     image_path: assets/images/fbpp02.png
-    alt: "Paper Prototype Smartphone-Modell, Notizen und erste Schritte"
+    alt: "Paper Prototype Smartphone-Modell, Notizen und erste Screens"
     title: "Paper Prototype: Smartphone-Modell, Notizen und erste Screens"
   - url: /assets/images/fbpp03.png
     image_path: assets/images/fbpp03.png
@@ -91,26 +91,26 @@ Die wichtigsten **Erkenntnisse** zur Motivation, zum Sport-Verhalten und zu den 
 * **Wettkämpfe** und andere Sport-Events konnten für die Teilnehmer:innen die **Motivation zu mehr Bewegung nur kurzfristig** steigern. Sie führten vor den jeweiligen Veranstaltungen zu einem erhöhten Trainingsaufkommen. Danach wurde dieses Sport-Verhalten von den befragten Personen nicht beibehalten oder zu anderen Sportarten gewechselt.
 
 **3. Bisherige Erfahrungen mit digitalen Angeboten**
-* Die **Nutzung von digitalen Fitness-Angeboten** ist seit dem **Beginn der Corona-Pandemie bei den befragten Personen insgesamt gestiegen**. Der Großteil bevorzugte Angebote ohne Registrierung und nutzte bestimmte Anbieter über deren Webseite oder über YouTube. Als Geräte zum Abspielen der Workouts wurden **Laptop, Smartphone oder der Fernseher** verwendet.
-* Ein **eigenes, individuelles Sport-Programm haben die UserInnen nicht für sich konzipiert**, sondern auf die Pläne der jeweiligen Sport-Anbieter zurückgegriffen. 
+* Die **Nutzung von digitalen Fitness-Angeboten** ist seit dem **Beginn der Corona-Pandemie bei den befragten Personen insgesamt gestiegen**. Der Großteil bevorzugte Angebote ohne Registrierung und nutzte bestimmte Anbieter über deren Webseite oder über YouTube. Als Geräte zum Abspielen der Workouts wurden **Laptop, Smartphone oder Fernseher** verwendet.
+* Ein **eigenes, individuelles Sport-Programm haben die User:innen nicht für sich konzipiert**, sondern auf die Pläne der jeweiligen Sport-Anbieter zurückgegriffen. 
 * Häufig haben sie von einem Anbieter ähnliche Angebote genutzt und **wenig ausprobiert**. Dadurch waren die Übungen zwar **bekannt**, die Workouts wurden für sie aber auch mit der Zeit **langweilig.**
-* **Abwechslung** war daher für sie ein motivierender Faktor, um mehr Sport zu betreiben. **Paradox war jedoch, dass das Interesse, nach dieser Form von Abwechslung selbst zu suchen kaum, vorhanden war.**
+* **Abwechslung** war daher für sie ein motivierender Faktor, um mehr Sport zu treiben. **Paradox war jedoch, dass das Interesse, nach dieser Form von Abwechslung selbst zu suchen, kaum vorhanden war.**
 
 {% include gallery id="gallery_persona" caption="Die beiden Personas Bina und Mitch" %}
 
-Die Erkenntnisse über die Personengruppe wurden anschließend genutzt, um **die beiden Personas "Bina" und "Mitch"** zu entwickeln. Ich entschied mich für zwei Personas, weil ich durch sie die Gruppe und Erkenntnisse aus den User Interviews gut widerspiegeln konnte. Mit **Bina** wurden die Sportler:innen beschrieben, die regelmäßig Sport machten, ein **Bedürfnis nach Sport verspürten** und diesen fest in ihren Alltag integriert hatten. **Mitch** stand für die Sportler:innen, deren **inneres Bedürfnis nach Sport kaum bis gar nicht ausgeprägt** war, die aber probieren Sport in ihren Alltag zu integrieren, weil sie sich der positiven Effekte bewusst waren.
+Die Erkenntnisse über die Personengruppe wurden anschließend genutzt, um **die beiden Personas "Bina" und "Mitch"** zu entwickeln. Ich entschied mich für zwei Personas, weil ich durch sie die Gruppe und die Erkenntnisse aus den User Interviews gut widerspiegeln konnte. Mit **Bina** wurden die Sportler:innen beschrieben, die regelmäßig Sport machten, ein **Bedürfnis nach Sport verspürten** und diesen fest in ihren Alltag integriert hatten. **Mitch** stand für die Sportler:innen, deren **inneres Bedürfnis nach Sport kaum bis gar nicht ausgeprägt** war, die aber probierten Sport in ihren Alltag zu integrieren, weil sie sich der positiven Effekte bewusst waren.
 
 **Reflektion:** Für mich war die **Erstellung der Personas ein entscheidender Prozess** für die weitere Entwicklung der App. Durch Bina und Mitch konnte ich mir meine potentielle Zielgruppe besser vorstellen, mehr Empathie aufbauen und mich beim weiteren Design-Prozess konkret auf sie beziehen. **Personas zu erstellen war in der Schulung der IxDF als Methode nicht vorgesehen**, aber das Konzept wurde sowohl in dem Kurs [**UX Design Kurses „Design Thinking: The Beginner’s Guide“**](https://www.interaction-design.org/mareike-bosselmann/certificate/course/313f43bd-fd91-4fb8-b3b5-2b649d704c06) als auch in dem Kurs [**"Become a UX Designer from Scratch"**](https://www.interaction-design.org/mareike-bosselmann/certificate/course/d35c481a-fb73-4ebc-8b5e-4a6670122d02) genauer erklärt.
 {: .notice--primary}
 
 ## Ideenfindung: Welche Funktionalitäten soll die Fitness-App bieten?
-Als nächstes galt es, ein **auf diese Personengruppe zugeschnittenes Konzept** für eine Fitness App zu erarbeiten. Die zentrale Frage war für mich, welchen Zweck die App erfüllen sollte: Welche Bedürfnisse hatten die befragten Personen gemein und welches davon ließen sich in einer Fitness App umsetzen? Erste Schritte waren hierfür die Erstellung einer **Empathy Map** für jede Persona und die Formulierung eines gemeinsamen **Point of View**. Dadurch wurde deutlich, was beide Personas miteinander verbindet: **Das Bedürfnis nach Abwechslung beim Sport.**
+Als nächstes galt es, ein **auf diese Personengruppe zugeschnittenes Konzept** für eine Fitness App zu erarbeiten. Die zentrale Frage war für mich, welchen Zweck die App erfüllen sollte: Welche Bedürfnisse hatten die befragten Personen gemein und welches davon ließ sich in einer Fitness App umsetzen? Erste Schritte waren hierfür die Erstellung einer **Empathy Map** für jede Persona und die Formulierung eines gemeinsamen **Point of View**. Dadurch wurde deutlich, was beide Personas miteinander verbindet: **Das Bedürfnis nach Abwechslung beim Sport.**
 
 {% include gallery id="gallery_empovhmw" caption="Empathy Maps und Points of View für beide Personas und Ergebnisse der &quot;How Might We&quot;-Session" %}
 
 Wie zuvor aus den User Interviews klar wurde und sich auch in den Empathy Maps zeigte, bot der **Fokus auf das Thema "Abwechslung" Möglichkeiten, aber auch Hindernisse**. Zum einen definierte die Personengruppe Abwechslung beim Sport als **Motivationsfaktor**. Zum anderen hatten die Befragten nur wenig Interesse an der eigenen Suche nach anderen Sportaktivitäten. **Langeweile beim Training wurde dann eher in Kauf genommen, als selbst Abwechslung zu suchen.** Auch ging es nicht darum, möglichst viele verschiedene Sportarten auszuprobieren, sondern im Rahmen der einen präferierten Sportart verschiedene Übungen und Trainings auszuprobieren.
 
-Dementsprechend war mein erster Gedanke, dass die App so konzipiert sein müsste, dass sie den Nutzer:innen **ein vielseitiges Sportprogramm basierend auf individuellen Interessen und individuellem Fitness-Level präsentiert.** Allerdings sollte nicht vergessen werden, dass User:innen wie Mitch eine kaum vorhandene Eigenmotivation besitzen und dass deren Bedürfnis nach Sport durch äußere Anreize geweckt werden musste. Als nächstes wurde ein **Point of View** formuliert, der die Perspektive von Bina und Mitch widerspiegelte: **Bina und Mitch wünschen sich mehr Abwechslung in ihrem Sportprogramm, weil sie das motiviert (mehr) Sport zu machen, sie den Sport dann interessanter finden und dann mehr Spaß beim Sport haben.** Durch die **"How Might We"-Methode** wurden von diesem Point of View ausgehend konkrete Fragen gestellt, die aufzeigten, welche Probleme es zu lösen galt:
+Dementsprechend war mein erster Gedanke, dass die App so konzipiert sein müsste, dass sie den Nutzer:innen **ein vielseitiges Sportprogramm basierend auf individuellen Interessen und individuellem Fitness-Level präsentiert.** Allerdings sollte nicht vergessen werden, dass User:innen wie Mitch eine kaum vorhandene Eigenmotivation besitzen und dass deren Bedürfnis nach Sport durch äußere Anreize geweckt werden musste. Als nächstes wurde ein **Point of View** formuliert, der die Perspektive von Bina und Mitch widerspiegelte: **Bina und Mitch wünschen sich mehr Abwechslung in ihrem Sportprogramm, weil sie das motiviert (mehr) Sport zu machen, sie den Sport dann interessanter finden und mehr Spaß beim Sport haben.** Durch die **"How Might We"-Methode** wurden von diesem Point of View ausgehend konkrete Fragen gestellt, die aufzeigten, welche Probleme es zu lösen galt:
 
 * Wie können wir durch eine App **mehr Abwechslung** bieten?
 * Wie können wir dazu anregen, dass dieses **Angebot auch genutzt** wird?
@@ -119,7 +119,7 @@ Dementsprechend war mein erster Gedanke, dass die App so konzipiert sein müsste
 * Wie stellen wir sicher, dass sie ein abwechslungsreiches Angebot auch **interessant** finden?
 * Wie können wir ihnen die nötigen **Informationen** bereitstellen, damit sie das Gefühl haben, über das Sport-Angebot ausreichend informiert zu sein?
 
-{% include gallery id="gallery_badideaschallenge" caption="Ergebnisse von Worst Possible Ideas und Challenge Assumptions" %}
+{% include gallery id="gallery_badideaschallenge" caption="Ergebnisse des &quot;Worst Possible Ideas&quot;-Ansatzes und der &quot;Challenge Assumptions&quot;-Methode" %}
 
 Mit dem **"Worst Possible Ideas"-Ansatz** wurden Aspekte und Funktionen erarbeitet, die für die App relevant erschienen. Zunächst habe ich mir hierfür die schlechten Ideen zu diesen Fragen notiert, wie zum Beispiel "Wir fragen die User nicht nach ihrer Meinung.", um im Umkehrschluss zu guten Lösungen zu kommen. Daraus wurden **Ideen zu den möglichen Funktionalitäten der App** produziert:
 
@@ -129,7 +129,7 @@ Mit dem **"Worst Possible Ideas"-Ansatz** wurden Aspekte und Funktionen erarbeit
 * Die **Möglichkeit des Austauschs und Teilens** von Sport-Angeboten mit Freund:innen sollte gegeben sein, damit auch gemeinsam Sport gemacht werden kann.
 * Zudem sollten auch **regionale Sport-Angebote** eingebaut werden, um das gemeinsame Sport-Erlebnis besser fördern zu können.
 
-Durch die **"Challenge Assumptions"-Methode** wurden dann **drei Annahmen** formuliert, von denen ich ausgegangen bin, dass sie die User Experience des Produkts beeinflussen werden. Mein Ziel war es zu hinterfragen, inwieweit diese Annahmen durch bestimmte Funktionalitäten der App nicht doch überwunden werden können: 
+Durch die **"Challenge Assumptions"-Methode** wurden dann **drei Annahmen** formuliert, von denen ich ausgegangen bin, dass sie die User Experience des Produkts beeinflussen würden. Mein Ziel war es zu hinterfragen, inwieweit diese Annahmen durch bestimmte Funktionalitäten der App nicht doch überwunden werden können: 
 
 **1. Annahme: Die Digitalisierung des Sport-Angebots hilft nicht dabei, dass Menschen sich besser dazu motivieren können Sport zu machen.** Diese Annahme wurde von den befragten Personen mit großer Mehrheit vertreten. Wer keine Lust auf Sport habe, könne auch nicht durch ein digitales Angebot dazu motiviert werden. Als **Lösungsansätze** hatte ich mir überlegt:
 
@@ -141,11 +141,11 @@ Durch die **"Challenge Assumptions"-Methode** wurden dann **drei Annahmen** form
 
 **2. Annahme: Das Angebot an digitalen Sport-Angeboten wird so groß sein, dass es nicht möglich ist, auch einen Überblick über regionale Angebote zu liefern.** Diese Annahme habe ich formuliert, weil durch die User Interviews klar wurde, dass die befragten Personen sich nicht erst einen großen Überblick über alle regionalen Angebote gemacht haben, weil allein diese bereits sehr vielfältig waren. Häufig haben sie **naheliegende Sport-Angebote** wie zum Beispiel Hochschulsport oder von Freund:innen und Familie empfohlene Anbieter genutzt. Es erschien mir daher ein Problem zu sein, sowohl digitale als auch regionale Angebote in die App miteinzubeziehen, da die **Informationsflut** die Nutzer:innen erschlagen könnten. Mögliche **Lösungsansätze** erschienen mir hier zu sein:
 
-* **Expert:innen** für eine bestimmte Sportart miteinbeziehen, um passende und gute regionale Angebote in die App einzubinden.
-* Eine **Filtermöglichkeit**, mit der ausgewählt werden kann, ob regionale Angebote für einen überhaupt interessant sind.
+* **Expert:innen** für eine bestimmte Sportart miteinzubeziehen, um passende und gute regionale Angebote in die App einzubinden.
+* Eine **Filtermöglichkeit**, mit der ausgewählt werden kann, ob regionale Angebote für den bzw. die jeweilige User:in überhaupt interessant sind.
 * Die Möglichkeit geben, dass **regionale Anbieter auf einen zukommen können**, um nach einer Prüfung in die Liste von regionalen Angeboten mit aufgenommen zu werden.
 
-**3. Annahme: Eine Fitness-App kann nicht für das "Yeah"-Gefühl sorgen, das Nutzer:innn beim Sport entwickeln, weil die Trainings-Atmosphäre zuhause fehlt, die im Studio geschaffen wurde.** Diese Annahme spiegelt ebenfalls die Meinung der Personengruppe wieder, die dieses Glücksgefühl unter anderem als "Yeah"-Gefühl beschrieb. Ich habe mich hier gefragt, ob tatsächlich das gleiche "Yeah"-Gefühl entstehen muss oder ob auch ein **anderes Zufriedenheitsgefühl durch den digital angebotenen Sport** entstehen kann, das ebenfalls die Motivation steigert. Folgende **Lösungsansätze** hatte ich mir hierzu überlegt:
+**3. Annahme: Eine Fitness-App kann nicht für das "Yeah"-Gefühl sorgen, das Nutzer:innn beim Sport entwickeln, weil im eigenen Zuhause die Trainings-Atmosphäre fehlt, die im Studio geschaffen wird.** Diese Annahme spiegelt ebenfalls die Meinung der Personengruppe wieder, die dieses Glücksgefühl unter anderem als "Yeah"-Gefühl beschrieb. Ich habe mich hier gefragt, ob tatsächlich das gleiche "Yeah"-Gefühl entstehen muss oder ob auch ein **anderes Zufriedenheitsgefühl durch den digital angebotenen Sport** entstehen kann, das ebenfalls die Motivation steigert. Folgende **Lösungsansätze** hatte ich mir hierzu überlegt:
 
 * **Livestreaming-Angebote** könnten ein Training in das eigene Wohn- oder Sportzimmer holen und so mehr Nähe vermitteln.
 * Die Option von **individuellen Wochenzielen** einräumen, die frei formuliert werden können.
@@ -162,7 +162,7 @@ Welche Funktionalitäten sollte die App auf jeden Fall besitzen? Und welche Best
 
 Im **ersten Storyboard** wurde die Home-Office-Situation vieler Menschen berücksichtigt und der **Fokus auf das Ausprobieren eines neuen Trainings** und somit auf den **regulären Ablauf auf der Suche nach Abwechslung** gelegt. Es wurde gezeigt, wie Bina nach Feierabend durch die Fitness App nach einem geeigneten Sport-Angebot für sich suchen möchte und **direkt auf ein neues Video hingewiesen wird**, das ihren persönlichen Präferenzen entspricht. Ein neues Video direkt mit dem Start der App anzuzeigen, entspricht dabei der Erkenntnis aus den User Interviews, dass die Nutzer:innen der App nicht lange nach neuen Angeboten suchen, sondern stattdessen lieber bereits bekannte Angebote erneut absolvieren wollen, obwohl sie eigentlich Lust auf andere Workouts hätten. Im Storyboard wird weiter gezeigt, wie Bina das angebotene Training absolviert und anschließend die **Möglichkeit der Bewertung des Trainings** nutzt.
 
-Im **zweiten Storyboard** wird gezeigt, wie Mitch und Bina **gemeinsam über die App trainieren** können. Bina ist hier diejenige, die ein **Livestreaming-Angebot entdeckt** und dieses an Bina schickt, um sie zu fragen, ob sie nicht am Abend spontan zusammen Sport machen wollen. Mitch fühlt sich durch den **äußeren Anreiz motiviert** etwas für sich zu tun und sagt zu. Gemeinsam machen die beiden das ihnen zuvor unbekannte Training zur gleichen Zeit in ihren eigenen Wohnzimmern. Auch Mitch wird danach die **Möglichkeit zur Bewertung des Sport-Angebots** geboten. Schließlich wird noch gezeigt, wie Mitch ihren Feierabend nutzt: Sie quatscht mit ihrer Freundin Bina über den Kurs und verbringt den Rest des Abends auf dem Sofa. In diesem Storyboard wird somit nicht allein das **Thema "Abwechslung beim Sport"** eingebunden, sondern auch die **Option gemeinsam Sport** zu machen behandelt, die für Mitch wichtig ist.
+Im **zweiten Storyboard** wird gezeigt, wie Mitch und Bina **gemeinsam über die App trainieren** können. Bina ist hier diejenige, die ein **Livestreaming-Angebot entdeckt** und dieses an Mitch schickt, um sie zu fragen, ob sie nicht am Abend spontan zusammen Sport machen wollen. Mitch fühlt sich durch den **äußeren Anreiz motiviert** etwas für sich zu tun und sagt zu. Gemeinsam machen die beiden das ihnen zuvor unbekannte Training zur gleichen Zeit in ihren eigenen Wohnzimmern. Auch Mitch wird danach die **Möglichkeit zur Bewertung des Sport-Angebots** geboten. Schließlich wird noch gezeigt, wie Mitch ihren Feierabend nutzt: Sie quatscht mit ihrer Freundin Bina über den Kurs und verbringt den Rest des Abends auf dem Sofa. In diesem Storyboard wird somit nicht allein das **Thema "Abwechslung beim Sport"** eingebunden, sondern auch die **Option gemeinsam Sport** zu machen behandelt, die für Mitch wichtig ist.
 
 Durch die Storyboards wurden **wichtige Erkenntnisse zu den Funktionalitäten des ersten Prototypen** erarbeitet und die wichtigsten Bestandteile konnten definiert werden. Aus folgenden Funktionalitäten sollte der erste Prototyp bestehen: 
 * Eine **Startseite** mit verschiedenen Sport-Angeboten sollte den Ausgangspunkt der App bilden.
@@ -201,7 +201,7 @@ Auch wenn durch die Kontaktbeschränkungen die Testung des Paper Prototype ersch
 * Mehr **User Research**, um die Projektidee auf den Prüfstand zu stellen und die Präferenzen bei der Suche nach Sport-Angeboten zu verstehen.
 * **Prototyping** und **Usability Testing**: Weitere Versionen der App entwickeln und testen, um Probleme und Fehler zu entdecken und das Produkt zu verbessern.
 * Das bisherige **Minimum Viable Product** um Kalender, Archiv, Suchfunktion und dem Prozess zur Auswahl der persönlichen Präferenzen erweitern.
-* Konzept für **mehrere Endgeräte** entwickeln und Design der App **responsive** umsetzen.
+* Konzept für **mehrere Endgeräte** entwickeln und **responsive** Design der App umsetzen.
 * **Finanzierbarkeit der App** planen. Möglich wären zum Beispiel Werbung, monatliche Beiträge oder eine einmalige Gebühr, Bezahlung der Trainer:innen, Produktplatzierungen in den Videos etc. 
 * Ein **Vergleich mit ähnlichen Anbietern**, um dadurch zu verstehen, was diese auszeichnet und was diese bisher nicht bieten. Daraus könnten sich Potentiale für die eigene App ableiten lassen. Diese Potentiale sollten jedoch durch User Research bestätigt werden.
 

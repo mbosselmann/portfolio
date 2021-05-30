@@ -23,13 +23,13 @@ gallery_persona:
 gallery_empovhmw:
   - url: /assets/images/fbempovhmw.png
     image_path: assets/images/fbempovhmw.png
-    alt: "Empathy Maps, Points of View und Ergebnisse der How Might We"
+    alt: "Empathy Maps, Points of View und Ergebnisse der &quot;How Might We&quot;-Session"
     title: "Empathy Maps und Points of View für beide Personas und Ergebnisse der &quot;How Might We&quot;-Session"
 gallery_badideaschallenge:
   - url: /assets/images/fbbadideaschallenge.png
     image_path: assets/images/fbbadideaschallenge.png
-    alt: "Ergebnisse von Worst Possible Ideas und Challenge Assumptions"
-    title: "Ergebnisse von Worst Possible Ideas und Challenge Assumptions"
+    alt: "Ergebnisse des &quot;Worst Possible Ideas&quot;-Ansatzes und der &quot;Challenge Assumptions&quot;-Methode"
+    title: "Ergebnisse des &quot;Worst Possible Ideas&quot;-Ansatzes und der &quot;Challenge Assumptions&quot;-Methode"
 gallery_storyboard:
   - url: /assets/images/fbstoryboardbina.png
     image_path: assets/images/fbstoryboardbina.png
@@ -201,7 +201,7 @@ Auch wenn durch die Kontaktbeschränkungen die Testung des Paper Prototype ersch
 * Mehr **User Research**, um die Projektidee auf den Prüfstand zu stellen und die Präferenzen bei der Suche nach Sport-Angeboten zu verstehen.
 * **Prototyping** und **Usability Testing**: Weitere Versionen der App entwickeln und testen, um Probleme und Fehler zu entdecken und das Produkt zu verbessern.
 * Das bisherige **Minimum Viable Product** um Kalender, Archiv, Suchfunktion und dem Prozess zur Auswahl der persönlichen Präferenzen erweitern.
-* Konzept für **mehrere Endgeräte** entwickeln und **responsive** Design der App umsetzen.
+* Konzept für **mehrere Endgeräte** entwickeln und **Responsive Design** umsetzen.
 * **Finanzierbarkeit der App** planen. Möglich wären zum Beispiel Werbung, monatliche Beiträge oder eine einmalige Gebühr, Bezahlung der Trainer:innen, Produktplatzierungen in den Videos etc. 
 * Ein **Vergleich mit ähnlichen Anbietern**, um dadurch zu verstehen, was diese auszeichnet und was diese bisher nicht bieten. Daraus könnten sich Potentiale für die eigene App ableiten lassen. Diese Potentiale sollten jedoch durch User Research bestätigt werden.
 

@@ -3,6 +3,9 @@ permalink: /about/
 layout: splash
 title: "Mareike Boßelmann"
 gallery_udemy:
+  - url: https://www.udemy.com/certificate/UC-7bd2dda3-4594-47bc-9da1-e1656fd03ecb/
+    image_path: assets/images/udemyadobexd.jpg
+    alt: "Udemy UX Design Essentials - Adobe XD"
   - url: https://www.udemy.com/certificate/UC-fecf4e1c-315d-41b6-98a6-b4dfcb1484f5
     image_path: assets/images/udemyuxdesignsketching.jpg
     alt: "Udemy UX Design Sketching"

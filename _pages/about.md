@@ -68,10 +68,10 @@ Als Doktorandin war es außerordentlich wichtig ein hohes Maß an **Selbstorgani
 
 ### Abgeschlossene Fortbildungen
 * **Google (Coursera)**
-{% include gallery layout="third" id="gallery_google" %}
+{% include gallery layout="half" id="gallery_google" %}
 
 * **Interaction Design Foundation**
-{% include gallery layout="third" id="gallery_ixdf" %}
+{% include gallery layout="half" id="gallery_ixdf" %}
 
 * **Udemy**
-{% include gallery layout="third" id="gallery_udemy" %}
+{% include gallery layout="half" id="gallery_udemy" %}
